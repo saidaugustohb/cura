@@ -1,0 +1,137 @@
+Environment variables:
+  - =::=::\
+  - =C:=C:\Users\1418326\Documents\protractor-js-screenplay\Cura
+  - =D:=D:\
+  - ALLUSERSPROFILE=C:\ProgramData
+  - ANDROID_HOME=C:\Users\1418326\AppData\Local\Android\Sdk\
+  - APPDATA=C:\Users\1418326\AppData\Roaming
+  - COMPUTERNAME=50HW014117
+  - ComSpec=C:\WINDOWS\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - ERROR_CODE=0
+  - GRADLE_HOME=D:\confidencial\Aplicaciones portables\gradle-4.7
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\1418326
+  - JAVA_EXEC="D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\bin\..\jre
+  - LOCALAPPDATA=C:\Users\1418326\AppData\Local
+  - LOGONSERVER=\\COMEDCEODC3
+  - M2_HOME=D:\confidencial\Aplicaciones portables\apache-maven-3.5.3
+  - NUMBER_OF_PROCESSORS=8
+  - OS=Windows_NT
+  - OneDrive=C:\Users\1418326\OneDrive
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=9e09
+  - PROJECT_HOME=C:\Users\1418326\Documents\protractor-js-screenplay\Cura
+  - PROMPT=$P$G
+  - PSModulePath=%ProgramFiles(x86)%\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+  - PUBLIC=C:\Users\Public
+  - Path=C:\Program Files (x86)\RSA SecurID Token Common;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\confidencial\Aplicaciones portables\apache-maven-3.5.3\bin;D:\confidencial\Aplicaciones portables\gradle-4.7\bin;D:\confidencial\Drivers;D:\confidencial\Aplicaciones portables\sonarqube-7.1\bin\windows-x86-64;C:\Program Files\Git\cmd;C:\Users\1418326\AppData\Local\Android\Sdk\;D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\bin;%USERPROFILE%\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\nodejs\;C:\Users\1418326\AppData\Roaming\npm\node_modules\protractor\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\Users\1418326\AppData\Local\Android\Sdk\\platform-tools;C:\Users\1418326\AppData\Local\Microsoft\WindowsApps;JAVA_HOME\bin;C:\Users\1418326\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\1418326\AppData\Roaming\npm
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SONAR_SCANNER_HOME=D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\WINDOWS
+  - TEMP=C:\Users\1418326\AppData\Local\Temp
+  - TMP=C:\Users\1418326\AppData\Local\Temp
+  - USERDNSDOMAIN=SOAM.TCS.COM
+  - USERDOMAIN=SOAM
+  - USERDOMAIN_ROAMINGPROFILE=SOAM
+  - USERNAME=1418326
+  - USERPROFILE=C:\Users\1418326
+  - VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+  - scriptdir=D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\bin
+  - use_embedded_jre=true
+  - windir=C:\WINDOWS
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\bin\..\lib\sonar-scanner-cli-3.1.0.1141.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\lib\endorsed
+  - java.ext.dirs=D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+  - java.home=D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre
+  - java.io.tmpdir=C:\Users\1418326\AppData\Local\Temp\
+  - java.library.path=D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\RSA SecurID Token Common;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\confidencial\Aplicaciones portables\apache-maven-3.5.3\bin;D:\confidencial\Aplicaciones portables\gradle-4.7\bin;D:\confidencial\Drivers;D:\confidencial\Aplicaciones portables\sonarqube-7.1\bin\windows-x86-64;C:\Program Files\Git\cmd;C:\Users\1418326\AppData\Local\Android\Sdk\;D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\bin;%USERPROFILE%\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\nodejs\;C:\Users\1418326\AppData\Roaming\npm\node_modules\protractor\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\Users\1418326\AppData\Local\Android\Sdk\\platform-tools;C:\Users\1418326\AppData\Local\Microsoft\WindowsApps;JAVA_HOME\bin;C:\Users\1418326\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\1418326\AppData\Roaming\npm;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - project.home=C:\Users\1418326\Documents\protractor-js-screenplay\Cura
+  - scanner.home=D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\lib\resources.jar;D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\lib\rt.jar;D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\lib\sunrsasign.jar;D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\lib\jsse.jar;D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\lib\jce.jar;D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\lib\charsets.jar;D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\lib\jfr.jar;D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\classes
+  - sun.boot.library.path=D:\confidencial\Aplicaciones portables\sonar-scanner-3.1.0.1141-windows\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=cp850
+  - sun.stdout.encoding=cp850
+  - user.country=US
+  - user.country.format=CO
+  - user.dir=C:\Users\1418326\Documents\protractor-js-screenplay\Cura
+  - user.home=C:\Users\1418326
+  - user.language=en
+  - user.language.format=es
+  - user.name=1418326
+  - user.script=
+  - user.timezone=America/Bogota
+  - user.variant=
+SonarQube plugins:
+  - SonarC# 7.0.1.4822 (csharp)
+  - SonarPython 1.9.1.2080 (python)
+  - SonarJava 5.2.0.13398 (java)
+  - Git 1.4.0.1037 (scmgit)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 1.5.0.1373 (xml)
+  - SonarPHP 2.13.0.3107 (php)
+  - SonarTS 1.6.0.2388 (typescript)
+  - Svn 1.7.0.1017 (scmsvn)
+  - SonarJS 4.1.0.6085 (javascript)
+Global properties:
+  - sonar.core.id=AWOTjJXRIFY7MleCwyU4
+  - sonar.core.startTime=2018-12-12T10:46:34-0500
+Settings for module: sonarts:sonarts-core
+  - sonar.moduleKey=sonarts:sonarts-core
+  - sonar.projectBaseDir=C:\Users\1418326\Documents\protractor-js-screenplay\Cura\sonarts-core
+  - sonar.projectKey=sonarts:sonarts-core
+  - sonar.projectName=SonarTS Core
+  - sonar.sources=../
+  - sonar.test.exclusions=**/*.lint.ts
+  - sonar.tests=tests

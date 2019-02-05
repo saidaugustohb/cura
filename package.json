@@ -1,0 +1,37 @@
+{
+  "name": "cura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "serenity update",
+    "report": "serenity run",
+    "preprotractor": "webdriver-manager update --standalone --versions.standalone 3.0.1 --ignore_ssl --proxy http://10.101.85.253:8080",
+    "protractor": "protractor ./protractor.conf.js",
+    "test": "npm run protractor --silent"
+  },
+  "author": "Said Herrera",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "4.0.0",
+    "@types/chai-as-promised": "0.0.31",
+    "@types/cucumber": "1.3.1",
+    "@types/node": "^7.0.31",
+    "chai": "4.0.2",
+    "chai-as-promised": "7.0.0",
+    "cucumber": "1.3.2",
+    "glob": "7.1.2",
+    "protractor": "^5.1.2",
+    "protractor-cucumber-framework": "3.1.2",
+    "serenity-cli": "^0.11.1",
+    "serenity-js": "^1.10.13",
+    "ts-node": "^3.0.6",
+    "tslint": "5.4.3",
+    "typescript": "^2.4.0"
+  },
+  "dependencies": {
+    "git-prepush-hook": "^1.0.2",
+    "tslint-sonarts": "^1.8.0"
+  },
+  "pre-push": []
+}
